@@ -5,7 +5,6 @@ Certainly! Here's a sample README for a Recipe UI built with Tailwind CSS and Re
 
 This project is a Recipe UI built using Tailwind CSS and React.js. It provides a user-friendly interface for browsing and viewing various recipes. Users can explore different recipes, view details, and find cooking instructions.
 
-![Screenshot](screenshot.png)
 
 ## Features
 
@@ -77,4 +76,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Feel free to customize this README according to your project's specific details. You can add more sections like API documentation, deployment instructions, or screenshots. Make sure to keep it clear and informative to help users understand and use your Recipe UI built with Tailwind CSS and React.js.
 ```
 
-Remember to replace placeholders like `your-username`, `screenshot.png`, and other placeholders with actual values specific to your project.
